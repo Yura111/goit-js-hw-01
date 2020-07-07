@@ -9,4 +9,3 @@ let message = `Выбран ${nameNext} ${priceNext}`;
 let messageTwo = `Выбран ${nameNext} ${priceNextTwo}`;
 console.log(message);
 console.log(messageTwo);
-
